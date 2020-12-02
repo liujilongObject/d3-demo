@@ -1,0 +1,75 @@
+{
+  "name": "All",
+  "children": [
+    {
+      "name": "A",
+      "children": [
+        {
+          "name": "A-1",
+          "value": 1
+        },
+        {
+          "name": "A-2",
+          "value": 2
+        },
+        {
+          "name": "A-3",
+          "children": [
+            {
+              "name": "A-3-1",
+              "value": 3
+            },
+            {
+              "name": "A-3-2",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B",
+      "children": [
+        {
+          "name": "B-1",
+          "value": 5
+        },
+        {
+          "name": "B-2",
+          "value": 6
+        },
+        {
+          "name": "B-3",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "children": [
+        {
+          "name": "C-1",
+          "children": [
+            {
+              "name": "C-1-1",
+              "value": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "children": [
+        {
+          "name": "D-1",
+          "value": 9
+        },
+        {
+          "name": "D-2",
+          "value": 10
+        }
+      ]
+    }
+  ]
+}
